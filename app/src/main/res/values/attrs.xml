@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GaugeDial">
+        <attr name="largeSerifMaxValue" format="integer" />
+        <attr name="largeSerifStep" format="integer" />
+        <attr name="smallSerifCount" format="integer" />
+        <attr name="hintText" format="string" />
+    </declare-styleable>
+</resources>

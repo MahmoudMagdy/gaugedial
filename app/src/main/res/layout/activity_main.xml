@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.gaugedial.GaugeDial
+        android:id="@+id/speedometer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:largeSerifMaxValue="240"
+        app:hintText="km/h"
+        app:largeSerifStep="20"
+        app:smallSerifCount="1" />
+
+    <com.example.gaugedial.GaugeDial
+        android:id="@+id/tachometer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        app:hintText="X1000r/min"
+        app:largeSerifMaxValue="8"
+        app:largeSerifStep="1"
+        app:smallSerifCount="4" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
