@@ -7,10 +7,11 @@ This Android app is designed to demonstrate effective communication over AIDL, u
 ## Screenshots
 
 ### Speedometer
-![Speedometer](https://github.com/MahmoudMagdy/gaugedial/blob/master/app/src/main/res/drawable/screenshot_speedometer.jpg?raw=true)
+<img src="https://github.com/MahmoudMagdy/gaugedial/blob/master/app/src/main/res/drawable/screenshot_speedometer.jpg?raw=true" width="200px">
 
 ### Tachometer
-![Tachometer](https://github.com/MahmoudMagdy/gaugedial/blob/master/app/src/main/res/drawable/screenshot_tachometer.jpg?raw=true)
+<img src="https://github.com/MahmoudMagdy/gaugedial/blob/master/app/src/main/res/drawable/screenshot_tachometer.jpg?raw=true" width="200px">
+
 
 ## Features
 
